@@ -16,7 +16,7 @@ Here are some of my notable projects:
 💰 Crypto Tracker: An app for tracking cryptocurrencies. (JavaScript)
 
 🎮 Hangman Game: A fun Hangman game you can play alone or with friends. (JavaScript)
-[![GitHub Streak](https://streak-stats.demolab.com/Maxify407578=DenverCoder1)](https://git.io/streak-stats)
+
 📫 Contact
 You can reach me through my social media:
 - 🌐 [My-Portfolio.](https://maxify407578.github.io/Mein-Portfolio/)
