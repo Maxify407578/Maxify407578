@@ -19,7 +19,7 @@ Here are some of my notable projects:
 
 📫 Contact
 You can reach me through my social media:
-- 🌐 [My-Portfolio.](https://maxify407578.github.io/Mein-Portfolio/)
+- 🌐 [My-Portfolio.](https://maxify407578.github.io/My-Portfolio./)
 - 🎥 [TikTok](https://www.tiktok.com/@maxify.1)
 
 I'm happy to receive feedback and inquiries about my projects! 😊
