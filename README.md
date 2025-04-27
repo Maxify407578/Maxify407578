@@ -17,9 +17,17 @@ Here are some of my notable projects:
 
 🎮 Hangman Game: A fun Hangman game you can play alone or with friends. (JavaScript)
 
+📧 Email Botter: A bot that can automate sending emails, with a handy .exe application. (Python)
+
+🌐 Port Scanner: A tool for scanning open ports on a network. (Python)
+
+🖥️ Keylogger in Python: A simple keylogger for educational purposes. (Python)
+
+🧠 ITMastern: A quiz platform where you can test and improve your IT knowledge for exams or jobs. (Web project)
+
 📫 Contact
 You can reach me through my social media:
-- 🌐 [My-Portfolio.](https://maxify407578.github.io/My-Portfolio./)
-- 🎥 [TikTok](https://www.tiktok.com/@maxify.1)
 
-I'm happy to receive feedback and inquiries about my projects! 😊
+🌐 My Portfolio
+
+🎥 TikTok
