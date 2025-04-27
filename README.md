@@ -1,8 +1,8 @@
-🌟 Welcome to my GitHub Profile! 🌟
-About Me
+#🌟 Welcome to my GitHub Profile! 🌟
+#About Me
 👋 Hi! I'm Maxify, a passionate developer from Germany. I love experimenting with different programming languages and creating innovative solutions. On this profile, you'll find a collection of projects I've built over time.
 
-🚀 Projects
+#🚀 Projects
 Here are some of my notable projects:
 
 🛠️ Multi-PC Tool: A versatile tool for your PC that combines various functions. (Batchfile)
@@ -25,7 +25,7 @@ Here are some of my notable projects:
 
 🧠 ITMastern: A quiz platform where you can test and improve your IT knowledge for exams or jobs. (Web project)
 
-📫 Contact
+#📫 Contact
 You can reach me through my social media:
 
 🌐 My Portfolio
