@@ -24,7 +24,7 @@ Here are some of my notable projects:
 🖥️ Keylogger in Python: A simple keylogger for educational purposes. (Python)
 
 🧠 ITMastern: A quiz platform where you can test and improve your IT knowledge for exams or jobs. (Web project)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0CFFDC&width=435&lines=Skills%3A;HTML;CSS;Javascript;Python;React;C%23;C%2B%2B)](https://git.io/typing-svg)
 # 📫 Contact
 You can reach me through my social media:
 
