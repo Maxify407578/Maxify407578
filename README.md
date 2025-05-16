@@ -1,33 +1,50 @@
-# 🌟 Welcome to my GitHub Profile! 🌟
-#About Me
-👋 Hi! I'm Maxify, a passionate developer from Germany. I love experimenting with different programming languages and creating innovative solutions. On this profile, you'll find a collection of projects I've built over time.
+# 🌟 Welcome to My GitHub Profile! 🌟
 
-# 🚀 Projects
-Here are some of my notable projects:
+## 👋 About Me  
+Hi, I'm **Maxify** — a passionate developer from **Germany** 🇩🇪.  
+I love experimenting with different technologies and building tools that solve real problems.  
+Whether it's web apps, automation scripts, or utilities — I enjoy bringing ideas to life through code.
 
-🛠️ Multi-PC Tool: A versatile tool for your PC that combines various functions. (Batchfile)
+---
 
-🌦️ Weather App: A simple weather app that displays current weather data. (CSS)
+## 🚀 Featured Projects
 
-🕒 Digital Clock: A digital clock that shows the current time. (CSS)
+🛠️ **Multi-PC Tool**  
+A versatile PC utility bundling multiple helpful functions. *(Batchfile)*
 
-🧮 Calculator App: A basic calculator for simple calculations. (HTML)
+🌦️ **Weather App**  
+Minimalistic weather application showing real-time weather data. *(CSS)*
 
-💰 Crypto Tracker: An app for tracking cryptocurrencies. (JavaScript)
+🕒 **Digital Clock**  
+A sleek digital clock designed for modern browsers. *(CSS)*
 
-🎮 Hangman Game: A fun Hangman game you can play alone or with friends. (JavaScript)
+🧮 **Calculator App**  
+Basic yet elegant calculator for everyday use. *(HTML)*
 
-📧 Email Botter: A bot that can automate sending emails, with a handy .exe application. (Python)
+💰 **Crypto Tracker**  
+Track cryptocurrency prices with real-time updates. *(JavaScript)*
 
-🌐 Port Scanner: A tool for scanning open ports on a network. (Python)
+🎮 **Hangman Game**  
+Classic Hangman game — fun to play solo or with friends. *(JavaScript)*
 
-🖥️ Keylogger in Python: A simple keylogger for educational purposes. (Python)
+📧 **Email Botter**  
+Automate email sending with a standalone application. *(Python)*
 
-🧠 ITMastern: A quiz platform where you can test and improve your IT knowledge for exams or jobs. (Web project)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0CFFDC&width=435&lines=Skills%3A;HTML;CSS;Javascript;Python;React;C%23;C%2B%2B)](https://git.io/typing-svg)
-# 📫 Contact
-You can reach me through my social media:
+🌐 **Port Scanner**  
+Scan open ports on networks — lightweight and effective. *(Python)*
 
-🌐 My Portfolio
+🖥️ **Keylogger (Educational)**  
+Educational keylogger example for learning purposes. *(Python)*
 
-🎥 TikTok
+🧠 **ITMastern**  
+A quiz platform to sharpen your IT knowledge for exams or interviews. *(Full Web Project)*
+
+---
+
+## 🧰 Tech Stack & Skills  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0CFFDC&width=435&lines=Skills%3A;HTML;CSS;JavaScript;Python;React;C%23;C%2B%2B)](https://git.io/typing-svg)
+
+---
+
+## 🌐 Portfolio  
+🔗 [maxifys.netlify.app](https://maxifys.netlify.app)
