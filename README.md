@@ -1,50 +1,36 @@
-# 🌟 Welcome to My GitHub Profile! 🌟
+# 👋 Hallo, willkommen auf meinem GitHub-Profil!
 
-## 👋 About Me  
-Hi, I'm **Maxify** — a passionate developer from **Germany** 🇩🇪.  
-I love experimenting with different technologies and building tools that solve real problems.  
-Whether it's web apps, automation scripts, or utilities — I enjoy bringing ideas to life through code.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Willkommen+auf+meinem+Profil!;Schön%2C+dass+du+da+bist!;Viel+Spaß+beim+Stöbern!" alt="Typing SVG" />
+</p>
 
----
+## 🚀 Über mich
 
-## 🚀 Featured Projects
+- 💻 Begeistert von Softwareentwicklung und Technologie
+- 🎯 Immer neugierig auf neue Tools, Frameworks und Methoden
+- 🌐 Meine Webseite: [maxifys.netlify.app](https://maxifys.netlify.app/)
+- 🤝 Offen für Zusammenarbeit und Austausch
 
-🛠️ **Multi-PC Tool**  
-A versatile PC utility bundling multiple helpful functions. *(Batchfile)*
+## 🛠️ Technologien & Tools
 
-🌦️ **Weather App**  
-Minimalistic weather application showing real-time weather data. *(CSS)*
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+<!-- Ergänze hier deine Tools -->
 
-🕒 **Digital Clock**  
-A sleek digital clock designed for modern browsers. *(CSS)*
+## 📈 GitHub Stats
 
-🧮 **Calculator App**  
-Basic yet elegant calculator for everyday use. *(HTML)*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Maxify407578&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
-💰 **Crypto Tracker**  
-Track cryptocurrency prices with real-time updates. *(JavaScript)*
+## 📫 Kontakt
 
-🎮 **Hangman Game**  
-Classic Hangman game — fun to play solo or with friends. *(JavaScript)*
-
-📧 **Email Botter**  
-Automate email sending with a standalone application. *(Python)*
-
-🌐 **Port Scanner**  
-Scan open ports on networks — lightweight and effective. *(Python)*
-
-🖥️ **Keylogger (Educational)**  
-Educational keylogger example for learning purposes. *(Python)*
-
-🧠 **ITMastern**  
-A quiz platform to sharpen your IT knowledge for exams or interviews. *(Full Web Project)*
+- Schreibe mir gerne eine Nachricht über GitHub!
+- Oder besuche meine Webseite: [maxifys.netlify.app](https://maxifys.netlify.app/)
 
 ---
 
-## 🧰 Tech Stack & Skills  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0CFFDC&width=435&lines=Skills%3A;HTML;CSS;JavaScript;Python;React;C%23;C%2B%2B)](https://git.io/typing-svg)
+> „Code ist wie Humor. Wenn man ihn erklären muss, ist er schlecht.“ – Cory House
 
----
-
-## 🌐 Portfolio  
-🔗 [maxifys.netlify.app](https://maxifys.netlify.app)
+**Danke fürs Vorbeischauen! ⭐**
