@@ -1,7 +1,7 @@
 # 👋 Hallo, willkommen auf meinem GitHub-Profil!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Willkommen+auf+meinem+Profil!;Schön%2C+dass+du+da+bist!;Viel+Spaß+beim+Stöbern!" alt="Typing SVG" />
+  <img src="https://www.google.com/imgres?q=pepe&imgurl=https%3A%2F%2Fi.ebayimg.com%2Fimages%2Fg%2FA-4AAOSw71tdg7Zi%2Fs-l1200.jpg&imgrefurl=https%3A%2F%2Fwww.ebay.de%2Fitm%2FSad-Pepe-Frog-Meme-Vinyl-Sticker-Decal-Car-Truck-Laptop-Window-Sizes-%2F153649562442&docid=B1Z9VCkq4ySxDM&tbnid=lc0MHdTljebB0M&vet=12ahUKEwiY0MDcz5KOAxW_YPEDHfQcAgEQM3oECBUQAA..i&w=1200&h=1148&hcb=2&ved=2ahUKEwiY0MDcz5KOAxW_YPEDHfQcAgEQM3oECBUQAA" alt="Typing SVG" />
 </p>
 
 ## 🚀 Über mich
