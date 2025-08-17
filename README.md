@@ -1,33 +1,22 @@
-# 👋 Hallo, willkommen auf meinem GitHub-Profil!
+# 👋 Hallo, ich bin Max
 
-
+Softwareentwickler und Technologie-Enthusiast, immer neugierig auf neue Tools, Frameworks und spannende Projekte.  
 
 ## 🚀 Über mich
 
-- 💻 Begeistert von Softwareentwicklung und Technologie
-- 🎯 Immer neugierig auf neue Tools, Frameworks und Methoden
-- 🌐 Meine Webseite: [maxifys.netlify.app](https://maxifys.netlify.app/)
-- 🤝 Offen für Zusammenarbeit und Austausch
+- 💻 Leidenschaft für Softwareentwicklung und innovative Lösungen
+- 🎯 Immer offen für neue Technologien und Methoden
+- 🌐 Meine Webseite: [Meine Webseite](https://maxifys.netlify.app/)
+- 🤝 Immer offen für Zusammenarbeit und Austausch
 
 ## 🛠️ Technologien & Tools
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
-<!-- Ergänze hier deine Tools -->
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+<!-- Hier kannst du weitere Tools hinzufügen -->
 
-## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maxify407578&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-## 📫 Kontakt
-
-- Schreibe mir gerne eine Nachricht über GitHub!
-- Oder besuche meine Webseite: [maxifys.netlify.app](https://maxifys.netlify.app/)
-
----
 
 > „Code ist wie Humor. Wenn man ihn erklären muss, ist er schlecht.“ – Cory House
 
